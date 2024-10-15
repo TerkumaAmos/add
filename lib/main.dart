@@ -59,7 +59,7 @@ class MyApp extends StatelessWidget {
                         Container(
                           height: 200,
                           width: 700,
-                          color: Colors.white,
+                          color: Colors.blue,
                           child: const Text('ABOUT',
                               style: TextStyle(color: Colors.black)),
                         )
