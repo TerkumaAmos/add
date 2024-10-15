@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
           body: Container(
               margin: const EdgeInsets.all(8.0),
               child: Padding(
-                padding: const EdgeInsets.all(8.0),
+                padding: const EdgeInsets.all(9.0),
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   mainAxisSize: MainAxisSize.min,
@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
                         Container(
                           height: 200,
                           width: 700,
-                          color: Colors.white,
+                          color: Colors.blue,
                           child: const Text(
                             'ABOUT',
                             style: TextStyle(color: Colors.black),
