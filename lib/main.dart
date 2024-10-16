@@ -7,7 +7,7 @@ void main(){
      backgroundColor: Colors.teal,
         appBar: AppBar(
           title: Text("Hello Amos",),
-          backgroundColor: Col,
+          backgroundColor: Colors.blue,
         ),
       ),
     )
