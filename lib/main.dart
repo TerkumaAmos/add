@@ -48,7 +48,7 @@ class _DicePageState extends State<DicePage> {
                   changeDiceFace();
                 },
                 child: Image.asset("images/dice$leftDiceNumber.jpeg",
-                  width: 200.0,
+                  width: 100.0,
                 ),
               ),
             ),
