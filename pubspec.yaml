@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+name: mom
+=======
 name: my_second_app
+>>>>>>> aa8f3c68ec9e9099c96efc46282676491966973a
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -60,6 +64,9 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
+<<<<<<< HEAD
+     - images/
+=======
      - images/dice1.jpeg
 #     - images/dice2.jpeg
 #     - images/dice3.jpeg
@@ -69,6 +76,7 @@ flutter:
 
 
 
+>>>>>>> aa8f3c68ec9e9099c96efc46282676491966973a
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
