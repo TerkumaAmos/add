@@ -5,6 +5,9 @@ void main(){
     MaterialApp(
       home: Scaffold(
      backgroundColor: Colors.teal,
+        appBar: AppBar(
+          title: Text("Hello Amos"),
+        ),
       ),
     )
   );
